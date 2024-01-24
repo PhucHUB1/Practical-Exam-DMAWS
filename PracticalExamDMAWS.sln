@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical Exam DMAWS", "Practical Exam DMAWS\Practical Exam DMAWS.csproj", "{93CE63AC-6857-43A3-9F74-D44FD43EC833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalExamDMAWS", "PracticalExamDMAWS\PracticalExamDMAWS.csproj", "{93CE63AC-6857-43A3-9F74-D44FD43EC833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
