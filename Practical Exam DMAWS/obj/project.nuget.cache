@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBy31dxMe+G5UiBY9t62HHGI9UVpE8tS6IgKwfn0usGUfyzNZK+J2iuhKmC5IQLaxR4CMQcjGfj5gZQ+gPswEw==",
+  "success": true,
+  "projectFilePath": "D:\\T2210M\\Accountant\\Practical Exam DMAWS\\Practical Exam DMAWS\\Practical Exam DMAWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\DGC-T480s\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
